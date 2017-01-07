@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Angel
+Main-Class: ar/edu/Proyecto2048/controller/MainController
